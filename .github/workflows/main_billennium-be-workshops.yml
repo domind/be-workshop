@@ -6,7 +6,7 @@ name: Build and deploy Node.js app to Azure Web App - billennium-be-workshops
 on:
   push:
     branches:
-      - nestjs
+      - main
   workflow_dispatch:
 
 jobs:
