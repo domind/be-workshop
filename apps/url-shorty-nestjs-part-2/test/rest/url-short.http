@@ -1,0 +1,6 @@
+POST http://localhost:3000/api/url HTTP/1.1
+content-type: application/json
+
+{
+  "url": "https://www.example.com"
+}
